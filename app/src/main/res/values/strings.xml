@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_lat_text">Disabled</string>
+    <string name="tv_long_text">Disabled</string>
+    <string name="instruction_1">Tap the green start button at the bottom to start monitoring your race information.</string>
+    <string name="instruction_2">When your race is finished, tap the red stop button at the bottom to stop recording information.</string>
+    <string name="instruction_3">You will be shown the analysis of your race in the form of the total distance covered, time taken, the differences in speed and the differences in altitude</string>
+    <string name="instruction_4">To track another race, just tap green reset button on the results page and then start tracking your race again.</string>
+
+</resources>
